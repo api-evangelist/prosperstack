@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ProsperStack is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://prosperstack.com/
+ProsperStack provides a customer retention platform for subscription businesses, offering tools to measure, test, and optimize retention performance. The service includes analytics, automated experiments, and actionable insights to help businesses reduce churn and increase revenue.
+
+**Areas:** Company · Retention · Subscription · Analytics · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://prosperstack.com/)
+- [Documentation](https://developers.prosperstack.com/)
+- [Pricing](https://prosperstack.com/pricing/)
+- [Blog](https://prosperstack.com/blog/)
+- [Terms of service](https://prosperstack.com/terms-of-service/)
+- [Privacy policy](https://prosperstack.com/privacy-policy/)
+- [GitHub](https://github.com/prosperstack)
+
+**APIs profiled:** 11
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/prosperstack/](https://apis.io/providers/prosperstack/).
